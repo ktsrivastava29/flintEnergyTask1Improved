@@ -1,0 +1,114 @@
+{
+  "Header": {
+    "title": "World's first decentralized funding platform for film creators.",
+    "paragraph": "Invest in your favorite creators, get unique NFTs & earn passive royalty from their movie. Who will win? centralized media companies OR thousands of individual creators?"
+  },
+  "Tokenom": {
+    "paragraph": "Artists & Film cretors work hard to create their Art. Most of it get’s unotices due to bad marketing, And them not being able to stand up against Industry Moguls.",
+    "paragraph2": "The solution is to create a Decentralized Community to support Artists get recognition for their work.",
+    "paragraph3": "- By getting funded for their films.",
+    "paragraph4": "- Get Traction & Marketing support from community.",
+    "paragraph5": "- Break into an highly monopolistic Industry with power of community."
+  },
+  "Roadmap": [
+    {
+      "icon": "fa fa-wallet",
+      "name": "Q4 2021",
+      "text": "Fund Raising, Onboarding Talented Artists, Building Alpha Platform, Platform Launch, Launch Most Interesting Bitcoin Documentary Every"
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Q1 2022",
+      "text": "Plan & Systematically Launch A Media Season on “Bitcoin” Initial Genre Would be, Comedy to Attract More People to the Ecosystem, Launch 1 Episode Every Week, Promote Episodes With Influencers"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Q2 2022",
+      "text": "Complete Platform Launch, Implement Reward Features, Implement More Token Utility to Earn Royalties"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Rakesh Yadav",
+      "job": "Senior Developer"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mukesh Parikh",
+      "job": "CMO"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Parag Shah",
+      "job": "CEO"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "other Investors ",
+      "job": "lorem ipsum"
+    }
+  ],
+  "Contact": {
+    "address": "lorem ipsum xgjk ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-money",
+      "title": "Auto Staking",
+      "text": "Invest in your favorite creators and earn passive rewards for life as royalty from their film sales."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Deflationary ",
+      "text": "2% fees is added to each transaction and 1% fees is distributed equally to all token holders. 1% fee is burned forever which Increases value of each token."
+    },
+    {
+      "icon": "fa fa-dollar",
+      "title": "Earn Royalties",
+      "text": "earn life time royalties on your favorite creator calculated based on your weighted average. everyone wins together!"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Film Launchpad",
+      "text": "Our exclusive launchpad, allows creators to launch films & earn income by earning royalties for lifetime."
+    }
+  ]
+}
