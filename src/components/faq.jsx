@@ -29,6 +29,7 @@ const styles = {
     // bgColor: 'white',
     titleTextColor: "blue",
     rowTitleColor: "blue",
+
     // rowContentColor: 'grey',
     // arrowColor: "red",
     
@@ -37,11 +38,13 @@ const styles = {
          titleTextSize: '48px',
         rowTitleColor: 'blue',
          rowTitleTextSize: 'medium',
+        
+       
          rowContentColor: 'grey',
         rowContentTextSize: '16px',
          rowContentPaddingTop: '10px',
         rowContentPaddingBottom: '10px',
-      //  rowContentPaddingLeft: '50px',
+       // rowContentPaddingLeft: '10px',
      rowContentPaddingRight: '150px',
         // arrowColor: "red",
         transitionDuration: "1s",
@@ -59,7 +62,7 @@ const config = {
 export const Faqs = () => {
 
     return (
-        <div>
+        <div className="FaqContain">
             <Faq
                 data={data}
                 styles={styles}

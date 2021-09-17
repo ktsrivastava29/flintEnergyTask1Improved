@@ -63,13 +63,14 @@ export const Tokenom = (props) => {
 
       <h2>Tokenomics</h2>
       <br/>
-      <div className="row">
+      <div className="column">
       <div className="col-xs-12 col-md-4"></div>
           <div className="col-xs-12 col-md-8">
           
     <Doughnut
           data={state1}
           options={{
+            
             title:{
               display:true,
               text:'Average Rainfall per month',
