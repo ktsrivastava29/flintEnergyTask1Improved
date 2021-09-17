@@ -64,8 +64,8 @@ export const Tokenom = (props) => {
       <h2>Tokenomics</h2>
       <br/>
       <div className="row">
-
-          <div className="col-xs-12 col-md-6">
+      <div className="col-xs-12 col-md-4"></div>
+          <div className="col-xs-12 col-md-8">
           
     <Doughnut
           data={state1}
@@ -84,24 +84,8 @@ export const Tokenom = (props) => {
 
 </div>
 
-             <h1 className="chart-heading">Line Chart</h1>
 
-             <div className="col-xs-12 col-md-6">
-      <Line
-          data={state}
-          options={{
-            title:{
-              display:true,
-              text:'Average Rainfall per month',
-              fontSize:20
-            },
-            legend:{
-              display:true,
-              position:'right'
-            }
-          }}
-        />
-      </div>
+      
 
 
 

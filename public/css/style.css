@@ -851,3 +851,8 @@ body{
     margin: 10px 0;
   }
 }
+.bulletright{
+  text-align: left;
+  justify-content: left;
+  align-items: flex-start;
+}

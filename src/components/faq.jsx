@@ -33,7 +33,7 @@ const styles = {
     // arrowColor: "red",
     
         // bgColor: 'white',
-        titleTextColor: 'blue',
+        titleTextColor: 'black',
          titleTextSize: '48px',
         rowTitleColor: 'blue',
          rowTitleTextSize: 'medium',
@@ -41,7 +41,7 @@ const styles = {
         rowContentTextSize: '16px',
          rowContentPaddingTop: '10px',
         rowContentPaddingBottom: '10px',
-        rowContentPaddingLeft: '50px',
+      //  rowContentPaddingLeft: '50px',
      rowContentPaddingRight: '150px',
         // arrowColor: "red",
         transitionDuration: "1s",
