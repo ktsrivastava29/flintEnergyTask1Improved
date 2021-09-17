@@ -1,6 +1,19 @@
+import React, { useState, Fragment } from 'react'
+
 export const Navigation = (props) => {
+  const [colorChange, setColorchange] = useState(false);
+  const changeNavbarColor = () =>{
+     if(window.scrollY >= 80){
+       setColorchange(true);
+     }
+     else{
+       setColorchange(false);
+     }
+  };
+  window.addEventListener('scroll', changeNavbarColor);
+
   return (
-    <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
+    <nav id='menu' className={colorChange ? 'navbar navbar-default navbar-fixed-top' : 'navbar active navbar-fixed-top'}>
       <div className='container'>
         <div className='navbar-header'>
           <button
