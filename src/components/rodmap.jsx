@@ -45,10 +45,10 @@ export const Roadmap = (props) => {
           <span class="title">Q4 2021</span>
           <span>1st Jan 2021</span>
         </div>
-        <p>    • Fund Raising
-    • Onboarding Talented Artists
-    • Building Alpha Platform
-    • Platform Launch
+        <p>    • Fund Raising<br/>
+    • Onboarding Talented Artists<br/>
+    • Building Alpha Platform<br/>
+    • Platform Launch<br/>
     • Launch Most Interesting “Bitcoin Documentary Every</p>
         <div class="bottom">
           
@@ -63,8 +63,8 @@ export const Roadmap = (props) => {
           <span class="title">Q1 2022</span>
           <span>2nd Jan 2021</span>
         </div>
-        <p>    • Plan & Systematically Launch A Media Season on “Bitcoin” Initial Genre Would be Comedy to Attract More People to the Ecosystem
-    • Launch 1 Episode Every Week
+        <p>    • Plan & Systematically Launch A Media Season on “Bitcoin” Initial Genre Would be Comedy to Attract More People to the Ecosystem <br/>
+    • Launch 1 Episode Every Week<br/>
     • Promote Episodes With Influencers</p>
         <div class="bottom">
           
@@ -78,8 +78,8 @@ export const Roadmap = (props) => {
           <span class="title">Q1 2022</span>
           <span>3rd Jan 2021</span>
         </div>
-        <p>    • Complete Platform Launch
-    • Implement Reward Features
+        <p>    • Complete Platform Launch<br/>
+    • Implement Reward Features<br/>
     • Implement More Token Utility to Earn Royalties</p>
         <div class="bottom">
          

@@ -73,6 +73,8 @@ body{
     border: 0;
   }
   /* Navigation */
+
+
   #menu {
     padding: 15px;
     transition: all 0.8s;
@@ -139,8 +141,8 @@ body{
   }
   .navbar-default .navbar-toggle:hover,
   .navbar-default .navbar-toggle:focus {
-    background-color: #fff;
-    border-color: #608dfd;
+    background-color: rgb(15, 15, 15);
+    border-color: #101011;
   }
   .navbar-default .navbar-toggle:hover > .icon-bar {
     background-color: #608dfd;
@@ -208,6 +210,13 @@ body{
     outline: none;
     outline-offset: none;
   }
+
+ .navele{
+    color: white;
+    font-weight: bolder;
+    font-size: larger;
+  }
+
   /* Header Section */
   .intro {
     display: table;
