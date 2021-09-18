@@ -62,16 +62,12 @@ export const Tokenom = (props) => {
               fontSize:20
             },
 
-            layout: {
-              padding: 40
-          },
+           
             plugins: {
               legend: {
                   display: true,
                   position: 'left',
-                  font: {
-                    size: 24
-                },
+                 
                   labels: {
                       color: 'rgb(255, 99, 132)'
                   }
