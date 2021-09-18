@@ -1,25 +1,10 @@
 import React, { Component }  from 'react';
-import { LineChart,  XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, AreaChart, Area, BarChart, Bar } from 'recharts';
+//import { LineChart,  XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, AreaChart, Area, BarChart, Bar } from 'recharts';
 import {Pie, Line, Doughnut} from 'react-chartjs-2';
 
 
 export const Tokenom = (props) => {
 
-  const state = {
-    labels: ['Team & Advisor', 'Operations', 'Reserve',
-             'Airdrop', 'Marketing', 'Private Sale', 'Public Sale', 'Exchange Liquidity', 'Liquidity mining'],
-    datasets: [
-      {
-        label: 'Tokens',
-        fill: false,
-        lineTension: 0.5,
-        backgroundColor: 'rgba(75,192,192,1)',
-        borderColor: 'rgba(0,0,0,1)',
-        borderWidth: 2,
-        data: [8000000, 4000000, 1932075, 1600000, 6400000, 16000000, 18867925, 4000000, 19200000]
-      }
-    ]
-  }
 
   const state1 = {
     labels: ['Team & Advisor', 'Operations', 'Reserve',
@@ -64,8 +49,8 @@ export const Tokenom = (props) => {
       <h2>Tokenomics</h2>
       <br/>
       <div className="column">
-      <div className="col-xs-12 col-md-4"></div>
-          <div className="col-xs-12 col-md-8">
+      <div className="col-xs-12 col-md-2"></div>
+          <div className="col-xs-12 col-md-10">
           
     <Doughnut
           data={state1}
@@ -76,10 +61,22 @@ export const Tokenom = (props) => {
               text:'Average Rainfall per month',
               fontSize:20
             },
-            legend:{
-              display:true,
-              position:'right'
-            }
+
+            layout: {
+              padding: 40
+          },
+            plugins: {
+              legend: {
+                  display: true,
+                  position: 'left',
+                  font: {
+                    size: 24
+                },
+                  labels: {
+                      color: 'rgb(255, 99, 132)'
+                  }
+              }
+          }
           }}
         />
 
